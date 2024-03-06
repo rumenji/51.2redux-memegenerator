@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/memes/node_modules
+/todos/node_modules
 
 # testing
 /coverage

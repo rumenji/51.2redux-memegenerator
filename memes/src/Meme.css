@@ -1,0 +1,30 @@
+div {
+    position: relative
+    
+}
+
+span {
+    display: block;
+    position: absolute;
+    color: white;
+    left: 0;
+    right: 0;
+}
+
+.top {
+    top: 10px;
+}
+
+.bottom {
+    bottom: 30px;
+}
+
+img {
+    width: 200px;
+}
+
+button {
+    display: block;
+    margin: auto;
+
+}
